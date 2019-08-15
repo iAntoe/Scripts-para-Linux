@@ -45,9 +45,8 @@ DATAFINAL=$(date +%d-%m-%Y)
 HORAFINAL=$(date +%H:%M:%S)
 
 echo -e "Inicio da atualizacao:\t$DATAINICIO às $HORAINICIO\t$BAT\nFim da atualizacao:\t$DATAFINAL às $HORAFINAL\t$BATFINAL\n"
-echo -e "============ v2.2.0 =============="
+echo -e "============ 1.0 =============="
 echo -e "===== ATUALIZADO COM SUCESSO ====="
 echo -e "===== Telegram @nrp_scorpion ====="
 echo -e "========== NRP_Sc0rp10n =========="
 echo -e "==================================\n"
-
